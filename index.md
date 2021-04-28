@@ -1,4 +1,4 @@
-[![Christophrus Twitch Live Stream](https://imgur.com/yOgBl9N)](https://twitch.tv/christophrus/)
+[![Christophrus Twitch Live Stream](https://i.imgur.com/yOgBl9N.jpg)](https://twitch.tv/christophrus/)
 
 ## Welcome to GitHub Pages
 
