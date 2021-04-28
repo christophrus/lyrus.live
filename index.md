@@ -15,6 +15,70 @@ Syntax highlighted code block
 ## Header 2
 ### Header 3
 
+<style>
+  .twitch .twitch-video {
+    padding-top: 56.25%;
+    position: relative;
+    height: 0;
+  }
+
+  .twitch .twitch-video iframe {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    top: 0;
+  }
+  .twitch .twitch-chat {
+    height: 400px;
+  }
+
+  .twitch .twitch-chat iframe {
+    width: 100%;
+    height: 100%;
+  }
+  @media screen and (min-width: 850px) {
+  .twitch {
+    position: relative;
+  }
+  
+  .twitch .twitch-video {
+    width: 75%;
+    padding-top: 42.1875%;
+  }
+
+  .twitch .twitch-chat {
+    width: 25%;
+    height: auto;
+    position: absolute;
+    top: 0;
+    right: 0;
+    bottom: 0;
+  }
+}
+</stlye>
+<div class="twitch">
+  <div class="twitch-video">
+    <iframe
+      src="https://player.twitch.tv/?channel=christophrus&autoplay=false"
+      frameborder="0"
+      scrolling="no"
+      allowfullscreen="true"
+      height="100%"
+      width="100%">
+    </iframe>
+  </div>
+  <div class="twitch-chat">
+    <iframe
+      frameborder="0"
+      scrolling="no"
+      src="https://www.twitch.tv/embed/phil_nash/chat?parent=philna.sh"
+      height="100%"
+      width="100%">
+    </iframe>
+  </div>
+</div>
+
+
 - Bulleted
 - List
 
