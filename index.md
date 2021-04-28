@@ -1,4 +1,4 @@
-[<img src="(https://imgur.com/yOgBl9N">](http://twitch.tv/christophrus/)
+[![Christophrus Twitch Live Stream](https://imgur.com/yOgBl9N)](https://twitch.tv/christophrus/)
 
 ## Welcome to GitHub Pages
 
