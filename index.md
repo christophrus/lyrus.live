@@ -1,6 +1,6 @@
 [![Christophrus Twitch Live Stream](https://i.imgur.com/yOgBl9N.jpg)](https://twitch.tv/christophrus/)
 
-## Welcome to GitHub Pages
+## Ego Nos Philo Sophia Hasta La Victoria Siempre
 
 You can use the [editor on GitHub](https://github.com/christophrus/lyrus.live/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
